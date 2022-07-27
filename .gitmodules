@@ -1,3 +1,4 @@
 [submodule "app/src/main/cpp/vote-saver"]
 	path = app/src/main/cpp/vote-saver
-	url = git@github.com:NilFoundation/vote-saver-protocol.git
+	url = git@github.com:NoamDev/vote-saver-protocol.git
+	branch = android
