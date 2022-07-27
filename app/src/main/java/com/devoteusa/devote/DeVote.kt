@@ -8,10 +8,10 @@ object DeVote {
                         val ct: ByteArray, val sn: ByteArray)
 
     fun generateVoterKeypair(): VoterKeyPair{
-        val pk = ByteArray(32);
-        val sk = ByteArray(32);
-        DeVoteJNI.generateVoterKeypair(pk, sk);
-        return VoterKeyPair(pk,sk);
+        val pk = ByteArray(32)
+        val sk = ByteArray(32)
+        DeVoteJNI.generateVoterKeypair(pk, sk)
+        return VoterKeyPair(pk,sk)
     }
 
     fun generateVote(tree_depth: Int, voter_idx: Int, vote: Int,
@@ -33,4 +33,17 @@ object DeVote {
         return VoteData(proof_buffer_out, pinput_buffer_out,ct_buffer_out, sn_buffer_out)
     }
 
+    fun verifyTally(tree_depth : Int,
+                             cts_buffer_array: Array<ByteArray>,
+                             vk_eid_buffer: ByteArray,
+                             pk_crs_buffer: ByteArray,
+                             vk_crs_buffer: ByteArray,
+                             dec_proof_buffer: ByteArray,
+                             voting_res_buffer: ByteArray): Boolean {
+
+        return DeVoteJNI.verifyTally(tree_depth, cts_buffer_array,
+                                    vk_eid_buffer, pk_crs_buffer,
+                                    vk_crs_buffer, dec_proof_buffer,
+                                    voting_res_buffer)
+    }
 }
