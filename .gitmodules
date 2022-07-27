@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/vote-saver"]
+	path = app/src/main/cpp/vote-saver
+	url = git@github.com:NilFoundation/vote-saver-protocol.git

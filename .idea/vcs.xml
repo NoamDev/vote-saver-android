@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/algebra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/algebra/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/block" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/block/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/blueprint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/blueprint/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/codec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/codec/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/containers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/containers/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/hash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/hash/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/mac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/mac/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/algebra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/algebra/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/core/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/multiprecision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/multiprecision/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/zk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/marshalling/zk/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/math/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/modes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/multiprecision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/multiprecision/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/pkpad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/pubkey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/pubkey/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/random" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/random/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/stream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/stream/cmake/modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/zk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/vote-saver/libs/zk/cmake/modules" vcs="Git" />
+  </component>
+</project>
